@@ -1,0 +1,19 @@
+- name: Author One
+  email: authorone@example.com
+  bio: Short bio of Author One
+  avatar: /path/to/avatar1.jpg
+  links:
+    - label: Website
+      url: http://example.com
+    - label: Twitter
+      url: http://twitter.com/example
+
+- name: Author Two
+  email: authortwo@example.com
+  bio: Short bio of Author Two
+  avatar: /path/to/avatar2.jpg
+  links:
+    - label: Website
+      url: http://example2.com
+    - label: Twitter
+      url: http://twitter.com/example2

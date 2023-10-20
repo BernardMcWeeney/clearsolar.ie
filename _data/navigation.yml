@@ -1,0 +1,17 @@
+#Please use the main menu items under the "text"
+
+- text: Home
+  url: /
+  submenu:
+  - text: Home 2
+    url: /index-2
+  - text: Home 3
+    url: index-3
+- text: News
+  url: /news
+- text: Get help
+  url: /get-help
+- text: What we do
+  url: /what-we-do
+- text: Ways to help
+  url: /ways-to-help

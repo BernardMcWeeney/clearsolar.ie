@@ -1,0 +1,19 @@
+{
+  "name": "stcianansvp",
+  "version": "1.0.0",
+  "description": "A simple website for the svp conference of St Cianans",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BernardMcWeeney/StCiananSVP"
+  },
+  "author": "Bernard McWeeney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BernardMcWeeney/StCiananSVP"
+  },
+  "homepage": "https://github.com/BernardMcWeeney/StCiananSVP",
+  "dependencies": {
+    "fuzzysearch": "^1.0.3",
+    "simple-jekyll-search": "^1.10.0"
+  }
+}
